@@ -1,5 +1,5 @@
 [![Python application tests](https://github.com/enterpriseme-academy/feedback-app/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/enterpriseme-academy/feedback-app/actions/workflows/main.yml)
-[![CodeBuild Container Build](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiWHRTbCs5eXBzTTJVc0tRRWdNYnJkY1pQeno5ZE5iNmpjQmpSR1phd2ZDQTE3SG81QjRyb1NMb0hrbnBFc1ZwbklqOW5rcGJQcnhrajE3TTlpK2gweXpZPSIsIml2UGFyYW1ldGVyU3BlYyI6IlFHVnRmYUgvVitpQzRCKzIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+[![CodeBuild Container Build](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiWHRTbCs5eXBzTTJVc0tRRWdNYnJkY1pQeno5ZE5iNmpjQmpSR1phd2ZDQTE3SG81QjRyb1NMb0hrbnBFc1ZwbklqOW5rcGJQcnhrajE3TTlpK2gweXpZPSIsIml2UGFyYW1ldGVyU3BlYyI6IlFHVnRmYUgvVitpQzRCKzIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)](https://eu-west-1.console.aws.amazon.com/codesuite/codebuild/projects/feedback-app-build/details)
 
 # feedback-app
 
