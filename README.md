@@ -1,3 +1,5 @@
+[![Python application tests](https://github.com/enterpriseme-academy/feedback-app/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/enterpriseme-academy/feedback-app/actions/workflows/main.yml)
+
 # feedback-app
 
 Python Application for collecting feedback
@@ -31,3 +33,4 @@ docker run -p 5000:5000 \
 ## Run tests
 
 `python -m pytest tests/ -v`
+
